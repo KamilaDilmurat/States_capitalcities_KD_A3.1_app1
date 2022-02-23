@@ -1,2 +1,1 @@
-# arcgix_js_template_KD
-template for building JS API Apps
+Code pen code for this app : https://codepen.io/kamiladilmurat/pen/MWOXjZq
